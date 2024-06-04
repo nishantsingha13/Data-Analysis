@@ -10,7 +10,7 @@ The dataset contains information about employees, including attributes such as a
 Data: The primary dataset used for this analysis is the "employee_data.csv" file, containing detailed information about each employer of  the company.
 
 ### Tools
-Excel - Data Cleaning
+Excel - Data Cleaning ,
 PowerBI - Data Analysis, Creating reports
 
 ### Data Cleaning/Preparation
