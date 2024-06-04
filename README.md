@@ -25,7 +25,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 3. How is the Salary Benchmark?
 
 
-
+### Visualization
 
 ![Screenshot (178)](https://github.com/nishantsingha13/Data-Analysis/assets/103675762/c4a8fb34-09ef-4507-95b9-3db2c88e7652)
 
@@ -33,17 +33,26 @@ EDA involved exploring the sales data to answer key questions, such as:
 ### Results/Findings
 The analysis results are summarized as follows:
 
-## Employee Attrition:
+Employee Attrition:
 A total of 1412 employees left the company.
 Among them:
 716 employees had a salary under 5k.
 424 employees had a salary between 5k and 10k
 
-## Experience-Based Attrition:
+Experience-Based Attrition:
 Employees tend to leave when they have either 1 year or 5 years of experience.
 
-## Job Role-Specific Attrition:
+Job Role-Specific Attrition:
 The following job roles are the most experiencing attrition:
 1. Sales Executives
 2. Laboratory Technicians
 3. Research Scientists
+
+   
+### Recommendations
+Based on the analysis, we recommend the following actions:
+1. Regularly review and adjust salaries based on market trends and employee performance.
+2. Implement performance-based bonuses or incentives.
+3. Provide growth opportunities, training, and mentorship programs.
+4. Address any concerns related to workload, team dynamics, or job roles.
+
