@@ -5,6 +5,8 @@ The dataset contains information about employees, including attributes such as a
 
 ![image](https://github.com/nishantsingha13/Data-Analysis/assets/103675762/3394b72d-3422-4869-98b9-c75a58814a28)
 
+you can also access the dashboard according to the gender, department, etc.
+
 ### Data Sources
 Data: The primary dataset used for this analysis is the "employee_data.csv" file, containing detailed information about each employer of  the company.
 
